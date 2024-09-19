@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\bin\Debug\net8.0\Lab1V2.exe
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\bin\Debug\net8.0\Lab1V2.deps.json
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\bin\Debug\net8.0\Lab1V2.runtimeconfig.json
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\bin\Debug\net8.0\Lab1V2.dll
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\bin\Debug\net8.0\Lab1V2.pdb
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.AssemblyInfo.cs
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.dll
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\refint\Lab1V2.dll
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.pdb
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\Lab1V2.genruntimeconfig.cache
+C:\Users\Owner\Desktop\programC#\Lab1V2\Lab1V2\obj\Debug\net8.0\ref\Lab1V2.dll
